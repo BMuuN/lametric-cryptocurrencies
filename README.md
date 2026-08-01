@@ -1,18 +1,17 @@
 # Cryptocurrencies for LaMetric
 
-The ultimate cryptocurrencies for LaMetric! More than 4000 currencies available!
+The ultimate cryptocurrencies for LaMetric! More than 10000 currencies available!
 
 ![Bitcoin](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/btc.gif)
 ![Ethereum](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/eth.gif)
 
-Based on https://coinmarketcap.com
+Powered by https://freecurrencyapi.com/ and https://coinmarketcap.com/
 
 # Donations 🙏
 
-If you like or use this app, please share your love by starring this repository, follow @pgrimaud or make a donation. 🙏💓
+If you like or use this app, please share your love by starring this repository, follow [@pgrimaud](https://github.com/pgrimaud) or make a donation. 🙏💓
 
-- **BTC** : `bc1qn5thzc2h376c4zrv6phten02p6mtj60j3ujm86`
-- **ETH / ERC20** : `0xCc070742bebB01A43B12E123C9c989E3E4d4E913`
+- **ETH / ERC20** : `0xD70924a5B41011a6154844CB9dF07C129a0C1624`
 
 
 ## Feedback
